@@ -27,8 +27,8 @@
     <figure>
         <img class="meme" src="https://www.meme-arsenal.com/memes/9b757b8a21972270989167310a59f8d7.jpg" alt="">
         <figcaption>Мем про фронтенд</figcaption>
-        <button type="button">Тык</button>
     </figure>
+    <button type="button">Тык</button>
 
     <h2>Форма</h2>
     <form action="" method="get">
